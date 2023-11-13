@@ -58,3 +58,14 @@ scope of my project and can be removed accordingly.
 The information will be more usable for me in analysis once I combine the relevant columns
 from the existing tables into a larger dataframe. 
 
+## In this Respository
+
+* Project Management: Contains the Project Brief
+  
+* Scripts: Contains all the Jupyter Notebooks of Python coding for the analysis
+
+*  README outlines project
+
+## Links
+
+[Tableau Storyboard](https://public.tableau.com/views/AmsterdamBnB_16996240579480/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
